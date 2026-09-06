@@ -7,7 +7,7 @@ Run: python get_weather.py
 import requests
 
 # 1. Paste your OpenWeatherMap API key here
-API_KEY = "df10d652e9a12909014f4a8d21d1a7e4"
+API_KEY = "API_KEY"
 
 
 def get_weather(city: str) -> dict:
